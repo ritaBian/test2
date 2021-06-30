@@ -1,21 +1,20 @@
 <!--
  * @Author: bjp
- * @Description: 这是test1
+ * @Description: 这是test2
 -->
 <template>
-  <div class="test1">
+  <div class="test2">
     <ul>
-      <li>1</li>
-      <li>2</li>
-      <li>第二次提交插入的</li>
-      <li>3</li>
+      <li>4</li>
+      <li>5</li>
+      <li>6</li>
     </ul>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'test1',
+  name: 'test2',
   components: {},
   data() {
     return {}
@@ -27,3 +26,4 @@ export default {
 
 <style lang="scss" scoped>
 </style>
+
